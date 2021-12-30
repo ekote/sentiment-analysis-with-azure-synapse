@@ -9,7 +9,7 @@ TBD
 ## The objective
 TBD
 
-![ArchDiagram](https://raw.githubusercontent.com/ekote/sman-analytics/main/assets/synapse-pipeline-diagram.png) 
+![ArchDiagram](https://raw.githubusercontent.com/ekote/sentiment-analysis-with-azure-synapse/main/assets/synapse-pipeline-diagram.png) 
 
 We will focus on:
 - text translation
